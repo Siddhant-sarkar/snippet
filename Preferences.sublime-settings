@@ -1,0 +1,20 @@
+{
+	"ignored_packages":
+	[
+		"Six",
+		"Vintage",
+		"Vintageous",
+	],
+	"inactive_sheet_dimming": false,
+	"color_scheme": "Horizon.sublime-color-scheme",
+	"theme": "Adaptive.sublime-theme",
+	"overlay_scroll_bars": "enabled",
+	"neovintageous_build_version": 12700,
+	"font_face": "Anonymous Pro",
+	"font_size": 16,
+	"save_on_focus_lost": true,
+	// "show_git_status": false,
+	"line_padding_top": 1.2,
+	"line_padding_bottom": 1.2,
+
+}

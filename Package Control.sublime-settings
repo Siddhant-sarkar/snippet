@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CppFastOlympicCoding",
+		"FileIcons",
+		"Horizon Color Scheme",
+		"NeoVintageous",
+		"Origami",
+		"Package Control",
+		"SublimeAStyleFormatter",
+		"SublimeLinter",
+		"SublimeLinter-gcc",
+	],
+}
